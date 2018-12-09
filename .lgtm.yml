@@ -7,4 +7,4 @@ extraction:
     cpp:
         configure:
             command: 
-                - $GNU_MAKE defconfig
+                - make defconfig
